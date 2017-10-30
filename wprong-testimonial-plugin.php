@@ -10,10 +10,10 @@
  *
  * @link              http://porosh.biz
  * @since             1.0.0
- * @package           Wprong_Testimonial_Plugin
+ * @package           Muizz_Testimonial_Plugin
  *
  * @wordpress-plugin
- * Plugin Name:       Wprong Testimonial Slider
+ * Plugin Name:       Muizz Testimonial Slider
  * Plugin URI:        http://www.wprong.com/testimonial
  * Description:       WPRONG Testimonial slider with shortcode button give you ability to show your client testimonial in your web page. 
  * Version:           1.0.0
